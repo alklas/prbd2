@@ -1,0 +1,1 @@
+SELECT (curdate()-dob)/(365*24) from `polyakova`.`сlient`;
